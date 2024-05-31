@@ -1,0 +1,7 @@
+version: 99.99.99
+files:
+  - url: https://github.com/jyyi1/jyyibin/raw/main/installer.exe
+    size: 112304
+    isAdminRightsRequired: true
+path: https://github.com/jyyi1/jyyibin/raw/main/installer.exe
+releaseDate: '2024-05-31T14:30:29.647Z'
