@@ -2,8 +2,8 @@ version: 99.99.99
 files:
   - url: https://github.com/jyyi1/jyyibin/raw/main/installer.exe
     size: 112304
-    sha512: NTllNDMxYzY4Y2NhYTlkNGM3Zjk4MzczYWQ5MDVlMzM3NjFlNDE2ZWEyNWViNjI0NmUyMjM3ODI0Y2ExZTA3Mw==
+    sha512: usZrj3aevBLXleTrAodGMPwnveKxrmL75K3MnHDW7fRnvVFuTFfQUN9lchrBkqkKs5PfZiL6nRkpec8uf3OmAQ==
     isAdminRightsRequired: true
 path: https://github.com/jyyi1/jyyibin/raw/main/installer.exe
-sha512: NTllNDMxYzY4Y2NhYTlkNGM3Zjk4MzczYWQ5MDVlMzM3NjFlNDE2ZWEyNWViNjI0NmUyMjM3ODI0Y2ExZTA3Mw==
+sha512: usZrj3aevBLXleTrAodGMPwnveKxrmL75K3MnHDW7fRnvVFuTFfQUN9lchrBkqkKs5PfZiL6nRkpec8uf3OmAQ==
 releaseDate: '2024-05-31T14:30:29.647Z'
