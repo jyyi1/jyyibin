@@ -1,0 +1,6 @@
+{
+  "server": "",
+  "server_port": 8388,
+  "password": "mypass",
+  "method": "chacha20-ietf-poly1305"
+}
