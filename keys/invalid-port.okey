@@ -1,1 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpteXBhc3M=@outline-server.example.com:66666/?outline=1
+{
+  "server": "outline-server.example.com",
+  "server_port": 99999,
+  "password": "mypass",
+  "method": "chacha20-ietf-poly1305"
+}
