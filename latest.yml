@@ -1,9 +1,9 @@
-version: 99.99.99
+version: 1.15.0
 files:
-  - url: https://github.com/jyyi1/jyyibin/raw/main/installer.exe
-    size: 112304
-    sha512: usZrj3aevBLXleTrAodGMPwnveKxrmL75K3MnHDW7fRnvVFuTFfQUN9lchrBkqkKs5PfZiL6nRkpec8uf3OmAQ==
+  - url: https://outline-release-candidates.s3.us-east-1.amazonaws.com/client_windows/v1.15.0-rc.1/Outline-Client.exe
+    sha512: iUCD19RHyIlvCmooNw7gU/9aur1LypkdcVFfbspeNqJ3PCTScg6MeE1Hiuibdumw8vtGtDDDbVC56reJWoW8Eg==
+    size: 79825304
     isAdminRightsRequired: true
-path: https://github.com/jyyi1/jyyibin/raw/main/installer.exe
-sha512: usZrj3aevBLXleTrAodGMPwnveKxrmL75K3MnHDW7fRnvVFuTFfQUN9lchrBkqkKs5PfZiL6nRkpec8uf3OmAQ==
-releaseDate: '2024-05-31T14:30:29.647Z'
+path: https://outline-release-candidates.s3.us-east-1.amazonaws.com/client_windows/v1.15.0-rc.1/Outline-Client.exe
+sha512: iUCD19RHyIlvCmooNw7gU/9aur1LypkdcVFfbspeNqJ3PCTScg6MeE1Hiuibdumw8vtGtDDDbVC56reJWoW8Eg==
+releaseDate: '2025-02-11T03:06:35.399Z'
