@@ -1,9 +1,9 @@
 version: 1.15.0
 files:
   - url: https://outline-release-candidates.s3.us-east-1.amazonaws.com/client_windows/v1.15.0-rc.1/Outline-Client.exe
-    sha512: bM61fzT48fdCC3AmLswTaAke99F2tUHIOHWn65R2pu11uZAnCo65o3zeGCL7fRexE3PGCVVFNhBIle55fLwyvQ==
-    size: 79835728
+    sha512: xiBklDoJ9Z5iYjMwk5uT0dcS3tYADAn/CFwT8gk6C74yCGtDACRaKjkfgIPWoeTItPWosbKeTNNLNoh9MfZmgg==
+    size: 79827568
     isAdminRightsRequired: true
 path: https://outline-release-candidates.s3.us-east-1.amazonaws.com/client_windows/v1.15.0-rc.1/Outline-Client.exe
-sha512: bM61fzT48fdCC3AmLswTaAke99F2tUHIOHWn65R2pu11uZAnCo65o3zeGCL7fRexE3PGCVVFNhBIle55fLwyvQ==
+sha512: xiBklDoJ9Z5iYjMwk5uT0dcS3tYADAn/CFwT8gk6C74yCGtDACRaKjkfgIPWoeTItPWosbKeTNNLNoh9MfZmgg==
 releaseDate: '2025-02-11T03:06:35.399Z'
